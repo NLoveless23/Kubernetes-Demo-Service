@@ -9,7 +9,8 @@ The initial cluster bootstrap and verification confirming the local control-plan
 
 ### 2. Final Deployment Victory
 Capturing the completed deployment rollout, container specifications, and healthy 1/1 Running pods with zero restarts.
-<img width="1023" height="371" alt="image" src="https://github.com/user-attachments/assets/846a3bb5-1db2-4fbb-8511-c6362f0bdceb" />
+<img width="1024" height="430" alt="image" src="https://github.com/user-attachments/assets/422c872d-5477-4403-83b2-a8fbe9a9985a" />
+
 
 ---
 
