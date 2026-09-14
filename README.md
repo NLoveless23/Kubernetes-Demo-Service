@@ -4,7 +4,8 @@
 
 ### 1. Cluster Initialization & Node Verification
 The initial cluster bootstrap and verification confirming the local control-plane node is active and communicating properly.
-<img width="1024" height="456" alt="image" src="https://github.com/user-attachments/assets/f9d07f45-3d90-421a-a2fc-683163185f79" />
+<img width="1024" height="430" alt="image" src="https://github.com/user-attachments/assets/f78a2a5e-e17c-4552-9b18-4aa0d2382413" />
+
 
 ### 2. Final Deployment Victory
 Capturing the completed deployment rollout, container specifications, and healthy 1/1 Running pods with zero restarts.
